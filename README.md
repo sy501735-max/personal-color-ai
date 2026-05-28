@@ -2,6 +2,17 @@
 
 AI-powered personal color analysis and styling workflow experiments.
 
+## Overview
+
+This project explores AI-assisted personalization systems for beauty, fashion, and creator-focused styling workflows.
+
+The platform focuses on:
+
+* personal color analysis
+* AI-assisted beauty recommendations
+* fashion and styling workflows
+* personalization systems for creators and modern branding experiences
+
 ## Features
 
 * Personal color analysis workflows
@@ -18,8 +29,11 @@ AI-powered personal color analysis and styling workflow experiments.
 
 ## Related Project
 
-ToneOnMatch
+### ToneOnMatch
+
 https://toneonmatch.com/
+
+AI-powered personal color and beauty matching platform.
 
 ## Stack
 
@@ -27,6 +41,11 @@ https://toneonmatch.com/
 * OpenAI API
 * JavaScript
 * Netlify
+* AI-assisted workflows
+
+## Project Goals
+
+Building practical AI personalization experiences and workflow systems for creators, beauty platforms, and recommendation-based services.
 
 ## Status
 
